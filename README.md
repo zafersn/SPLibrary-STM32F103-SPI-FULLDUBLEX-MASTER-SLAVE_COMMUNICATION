@@ -9,11 +9,11 @@ The master and the slave were connected via the spi1 line.
 **SS ==> PA4** <br>
 
 
-## STM32F103RB NUCLEO <br>
+## STM32F103RB NUCLEO - SLAVE <br>
 
 ![Screen Shot](https://github.com/zafersn/STM32F103RB-NUCLEO-SPI-SLAVE-ESP8266-12E-MASTER-COMMUNATION-SPL/blob/master/image/cyfnl9cezh8k0buaz.gif)<br>
 
-## STM32F103C8 <br>
+## STM32F103C8 - MASTER <br>
 
 ![Screen Shot](https://github.com/zafersn/SPLibrary-STM32F103-SPI-FULLDUBLEX-MASTER-SLAVE_COMMUNICATION/blob/master/image/stm32f103c8-development-kit_orig.png)<br>
 
